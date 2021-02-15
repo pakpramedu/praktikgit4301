@@ -1,1 +1,3 @@
-Hari pertama perkuliahan Pengembangan Aplikasi Berbasis Web diisi dengan materi Git.
+Hari pertama perkuliahan Pengembangan Aplikasi Berbasis Web diisi dengan materi perkenalan dan Git.
+
+Ini adalah baris baru. Ini baris yang akan di-amend.
